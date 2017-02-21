@@ -25,7 +25,7 @@ SECRET_KEY = '_lj6zrl&3!ek(gab()6@l9o9r4nn4o1a9l5j6yiy&0n-8hjh*$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['flea333.pythonanywhere.com']
 
 
 # Application definition
